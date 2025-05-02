@@ -1,21 +1,25 @@
 # Sprint Planning Template
 
-![Sprint Planning](SprintPlanning_v1.0.png)
+![Sprint Planning](SprintPlanning_v2.0.png)
 
-Brought to you by Scrum Facilitators, a Sprint Planning template to help you make the Sprint Planning more effective.
+A Sprint Planning template to help you make the Sprint Planning more effective, by organising the Sprint Planning around a clear and purposeful Sprint Goal.
 
-Use this template for a more structured approach to Sprint Planning, focused on outcomes and covering relevant subjects step by step.
+Use this template for a more structured approach to Sprint Planning, designed to help you ask the right questions.
+
+The template will take you step by step to cover a number of subjects inspired by various canvases, offering a logical sequence of steps to create an effective Sprint plan.
+
+Keep in mind that the template is meant to foster a conversation to achieve a deeper understanding of the work. If you find yourself unable to answer to all the fields, give yourself space to inverstigate further.
 
 The template is available in the following formats:
 
 - a [Mural template](https://app.mural.co/template/451da6b1-f799-4b34-a4c9-922483c85a27/1b3cde1f-130a-4f34-aa77-8ccfe091b08d) you can open and save to your own Mural workspace,
-- a [Miro template](SprintPlanning_v1.0.rtb) you can upload to your Miro workspace,
-- a [pdf](SprintPlanning_v1.0.pdf) for your printing purposes,
-- a [png](SprintPlanning_v1.0.png) image file.
+- a [Miro template](SprintPlanning_v2.0.rtb) you can upload to your Miro workspace,
+- a [pdf](SprintPlanning_v2.0.pdf) for your printing purposes,
+- a [pdf](SprintPlanning_v2.0.pdf) for your printing purposes, without manual,
+- a [png](SprintPlanning_v2.0.png) image file.
+- a [png](SprintPlanning_v2.0.png) image file, without manual.
 
-The template includes the same short manual included below, describing how to use it.
-
-The template should be useful for any type of team. It serves as a primer to organise the Sprint Planning around a Sprint Goal, and offers a logical sequence of steps to create an effective Sprint plan.
+Although the terms used relate to Scrum, the template should be useful for any type of team preparing for an iteration.
 
 **Note** *that before getting started with the Sprint Planning using this template, you may want to ensure you have a Product Goal and that the whole team is aware of it. This will provide context for your Sprint Planning and make it more effective.*
 
