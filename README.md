@@ -1,6 +1,6 @@
 # Sprint Planning Template
 
-![Sprint Planning](SprintPlanning_v2.0.png)
+![Sprint Planning](sprint_planning_template_v2.0.png)
 
 A Sprint Planning template to help you make the Sprint Planning more effective, by organising the Sprint Planning around a clear and purposeful Sprint Goal.
 
@@ -13,11 +13,8 @@ Keep in mind that the template is meant to foster a conversation to achieve a de
 The template is available in the following formats:
 
 - a [Mural template](https://app.mural.co/template/451da6b1-f799-4b34-a4c9-922483c85a27/1b3cde1f-130a-4f34-aa77-8ccfe091b08d) you can open and save to your own Mural workspace,
-- a [Miro template](SprintPlanning_v2.0.rtb) you can upload to your Miro workspace,
-- a [pdf](SprintPlanning_v2.0.pdf) for your printing purposes,
-- a [pdf](SprintPlanning_v2.0.pdf) for your printing purposes, without manual,
-- a [png](SprintPlanning_v2.0.png) image file.
-- a [png](SprintPlanning_v2.0.png) image file, without manual.
+- a [pdf](sprint_planning_template_v2.0.pdf) for your printing purposes,
+- a [png](sprint_planning_template_v2.0.png) image file.
 
 Although the terms used relate to Scrum, the template should be useful for any type of team preparing for an iteration.
 
