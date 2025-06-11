@@ -13,6 +13,7 @@ Keep in mind that the template is meant to foster a conversation to achieve a de
 The template is available in the following formats:
 
 - a [Mural template](https://app.mural.co/template/451da6b1-f799-4b34-a4c9-922483c85a27/1b3cde1f-130a-4f34-aa77-8ccfe091b08d) you can open and save to your own Mural workspace,
+- a [Miro template](SprintPlanning_v2.0.rtb) you can upload to your Miro workspace,
 - a [pdf](SprintPlanning_v2.0.pdf) for your printing purposes,
 - a [pdf](SprintPlanning_v2.0.pdf) for your printing purposes, without manual,
 - a [png](SprintPlanning_v2.0.png) image file.
@@ -84,9 +85,6 @@ If you have any feedback, please let us know by logging an issue here on github.
 If you have made improvements that you think will contribute to the product, feel free to open a pull request.
 
 ## License
-Sprint Planning Template by Scrum Facilitators is licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+The Sprint Planning Template is licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+
 All the materials in this repository are subject to this license. See the above link for a human readable summary and the included LICENSE.md file for the full license text.
-
-Have fun! Greetings from the Scrum Facilitators crew
-
-[![SF](https://www.scrumfacilitators.com/images/logo.png)](https://www.scrumfacilitators.nl)
